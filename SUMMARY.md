@@ -11,3 +11,4 @@
 
 * [😬 cmake常用变量及配置](configure-and-build/cmake-chang-yong-bian-liang-ji-pei-zhi/README.md)
   * [😉 Windows编译Opencv记录](configure-and-build/cmake-chang-yong-bian-liang-ji-pei-zhi/windows-bian-yi-opencv-ji-lu.md)
+* [😃 交叉编译场景](configure-and-build/jiao-cha-bian-yi-chang-jing.md)
